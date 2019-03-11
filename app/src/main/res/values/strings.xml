@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestAccel</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="shake">Shake to get a toast and to switch color</string>
+    <string name="shuffed">Device was shuffed</string>
+    <string name="accelerometerNotFound">Sorry, there is no accelerometer</string>
+    <string name="lightSensorNotFound">Sorry, there is no Light Sensor</string>
+    <string name="lightSensorUp">Change the light to get information</string>
+    <string name="newValue"> "New value light sensor ="</string>
+    ""
+
+</resources>
